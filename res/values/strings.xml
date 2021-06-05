@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aplikasi Informasi Jalur Menuju Gunung Di Jawa Tengah </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="b"> Aplikasi Informasi Jalur Menuju Gunung Di Jawa Tengah Terdiri Dari 4 Menu Yaitu </string>
+    <string name="b1"> 1. Menu Gunung </string>
+    <string name="b2"> Digunakan untuk menampilkan informasi profil, galeri dan jalur pendakian gunung</string>
+    <string name="b3"> 2. Menu Petunjuk Aplikasi</string>
+    <string name="b4"> Pada menu petunjuk aplikasi akan ditampilkan tentang petunjuk penggunaan program </string>
+    <string name="b5"> 3. Menu Pembuat </string>
+    <string name="b6"> Pada menu pembuat akan ditampilkan tentang pembuat program </string>
+    <string name="b7"> 4. Menu Keluar </string>
+    <string name="b8"> Digunakan untuk keluar dari program </string>
+    <string name="b9"> Aplikasi ini minimal berjalan pada Android 4.0 </string>
+    
+    <string name="lawu1">Gunung Lawu adalah gunung berketinggian 3266 mdpl yang teletak di perbatasan antara Provinsi Jawa Tengah dan Jawa Timur berdasarkan peta bakosurtanal terbitan tahun 2000. Gunung ini memiliki volume pendakian rata-rata tiap tahun yang cukup besar. Hal ini dikarenakan selain terkenal akan keindahannya, Gunung Lawu juga terkenal mistis. Makanya jangan heran jika di hari–hari tertentu pendaki gunung ini bisa mencapai ratusan orang. Bahkan Sinuhun Paku Buwono (Raja Kasunanan Surakarta) setiap tahun mendaki gunung ini untuk mengunjungi makam leluhur beliau, Raja Brawijaya V yang dipercaya bersemayam di Puncak Gunung Lawu.  </string>
+    <string name="lawu2">Gunung Lawu mempunyai tiga jalur pendakian umum. Yaitu melalui Candi Sukuh (Cetho), Cemoro Kandang, dan Cemoro Sewu. </string>
+    <string name="lawu3">Melalui Candi Cetho (Karanganyar, Jawa Tengah) </string>
+    <string name="lawu4">Merupakan jalur terpanjang dari kedua jalur lainnya. Jika Anda mendaki lewat jalur ini Anda akan melewati beberapa situs candi peninggalan Prabu Brawijaya V. Jalur ini sekarang sudah jarang dipakai karena bisa memakan waktu 2 – 3 hari untuk mencapai puncak </string>
+    <string name="lawu5">Melalui Cemoro Sewu (Magetan, Jawa Timur) </string>
+    <string name="lawu6">Bisa dibilang jalur terpendek gunung ini. Jika mendaki lewat jalur ini anda akan menghadapi medan bertangga batu yang cukup terjal dari awal sampai menuju puncak. Untuk menncapai puncak diperlukan waktu 6-8 jam jalan kaki normal. Base Camp Cemoro Sewu berlokasi di Kelurahan Sarangan, Kecamatan Plaosan, Kabupaten Magetan, Provinsi Jawa Timur. </string>
+    <string name="lawu7">Melalui Cemoro Kandang (Karanganyar, Jawa Tengah) </string>
+    <string name="lawu8">Base Camp Cemoro Kandang terletak sekitar 500 m di sebelah barat Base Camp Cemoro Sewu. Berlokasi di Kecamatan Tawangmangur, Kabupaten Karanganyar, Provinsi Jawa Tengah. </string>
+    
+    <string name="slamet1">Gunung Slamet adalah gunung tertinggi di Jawa Tengah dan kedua tertinggi di  Pulau Jawa dengan ketinggian 3432 mdpl. Secara administratif gunung ini terletak di perbatasan Kabupaten Banyumas, Brebes, Pemalang, Tegal, dan Purbalingga. Gunung ini bertipe strato volcano dan masih aktif. Ada beberapa jalur pendakian yang dipakai untuk mencapai puncak Gunung Slamet. Jalur-jalur tersebut antara lain dari Bambangan, Kaliwadas, Baturaden, Guci, dan lain-lain. Artikel ini akan membahas Pendakian Gunung Slamet melalui jalur Baturaden </string>
+   
+    <string name="merapi1">Gunung Merapi (ketinggian puncak 2.968 m dpl, per 2006) adalah gunung berapi di bagian tengah Pulau Jawa dan merupakan salah satu gunung api teraktif di Indonesia. Lereng sisi selatan berada dalam administrasi Kabupaten Sleman, Daerah Istimewa Yogyakarta, dan sisanya berada dalam wilayah Provinsi Jawa Tengah, yaitu Kabupaten Magelang di sisi barat, Kabupaten Boyolali di sisi utara dan timur, serta Kabupaten Klaten di sisi tenggara. Kawasan hutan di sekitar puncaknya menjadi kawasan Taman Nasional Gunung Merapi sejak tahun 2004.  </string>
+    <string name="merapi2">Gunung ini sangat berbahaya karena menurut catatan modern mengalami erupsi (puncak keaktifan) setiap dua sampai lima tahun sekali dan dikelilingi oleh pemukiman yang sangat padat. Sejak tahun 1548, gunung ini sudah meletus sebanyak 68 kali.Kota Magelang dan Kota Yogyakarta adalah kota besar terdekat, berjarak di bawah 30 km dari puncaknya. Di lerengnya masih terdapat pemukiman sampai ketinggian 1700 m dan hanya berjarak empat kilometer dari puncak. Oleh karena tingkat kepentingannya ini, Merapi menjadi salah satu dari enam belas gunung api dunia yang termasuk dalam proyek Gunung Api Dekade Ini</string>
+    
+    <string name="sindoro1">Gunung Sindoro - 3.136 m.dpl, setidaknya ada tiga nama yang dikenal baik oleh masyarakat, Sindoro, Sundoro atau Sendoro. Adalah termasuk dalam jajaran gunung berapi yang mempunyai bentuk kerucut dengan tipe Strato. Dari kejauhan nampak seperti dua saudara kembar antara Sundoro dan Sumbing, berdiri kokoh di batas Kabupaten Temanggung sebelah barat dan sebelah timur kota Wonosobo. Diantara keduanya, dipisahkan oleh pelana Kledung (1.405 m.dpl) yang melintasi jalan raya, menghubungkan Wonosobo dengan kota Magelang  </string>
+    <string name="sindoro2">Gunung Sundoro mempunyai Koordinat/ Geografi pada 7 18?LS dan 109 59.5? BT dan memiliki areal Kawasan Hutan cukup luas yang di kelola oleh PERHUTANI Wonosobo (772 m.dpl) dan Temanggung. Berada di puncaknya, kita bisa melihat pemandangan disekitarnya, bagian lereng gunung ditanami hamparan kebun teh yang mengelilingi menjadikan lereng sindoro terlihat hijau sepanjang tahun  </string>
+    <string name="sindoro3">Di bagian timur dari puncak datar seluas 400 x 300 m terdapat kawah kembar besar berukuran 210 x 150 m, sedangkan dataran Segero Wedi, Banjaran, di bagian barat dan utara, adalah sisa dari kawah utama dan sekunder. Kerucut dan kawah parasit ditemukan di lereng barat daya dan timur laut dan di kaki tenggara. Beberapa ratus bukit di kaki timur laut menurut Taverne dan van Bemmelen merupakan sisa erosi dari suatu longsoran tanah sebelum tanah sebelum sejarah atau dari lahar </string>
+    
+    <string name="sumbing1">Gunung Sumbing adalah gunung api yang sudah lama sekali tidak meletus atau erupsi. Gunung ini terakhir kali erupsi adalah pada tahun 1730. Gunung Sumbing terletak di Jawa Tengah yakni masuk dalam kabupaten Magelang, Temanggung, dan Wonosobo. Gunung Sumbing sudah tidak aktif lagi namun di puncaknya masih terdapat kawah </string>
+    <string name="sumbing2">Gunung Sumbing memiliki ketinggian 3.371 mdpl. Kondisi alam di sekitar kaki gunung Sumbing sangat subur sehingga banyak dimanfaatkan masyarakat setempat sebagai perkebunan </string>
+     
+    <string name="merbabu1">Gunung Merbabu terletak di wilayah Magelang dan Boyolali dengan ketinggian 3.142 mdpl. Gunung Merbabu adalah salah satu gunung paling indah di Indonesia. Pendakian gunung Merbabu cukup populer karena gunung ini memiliki tingkat kesulitan yang tidak terlalu tinggi, tapi pemandangan yang tersaji sangatlah indah. Jalur pendakian gunung Merbabu yang paling tua adalah jalur Thekelan. Setelah itu muncul jalur jalur pendakian lain seperti jalur selo, jalur wekas dan jalur Chuntel</string>
+    <string name="merbabu2">Gunung Merbabu di kenal memiliki 7 buah puncak dengan 2 puncak tertinggi yaitu puncak Syarif (3.119 mdpl) dan Puncak Trianggulasi (3.142 mdpl). 5 puncak lainya adalah Watugubuk, Watutulis, Gegersapi, Ondorante dan Kentengsongo. Gunung ini juga memiliki 5 buah kawah yaitu kawah Condrodimuko, kawah Kombang, Kendang, Rebab, dan kawah Sambernyowo</string>
+ 
+    
+</resources>

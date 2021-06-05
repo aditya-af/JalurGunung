@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView" 
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent"> 
+    
+<LinearLayout 
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/back" >
+
+    
+<TextView
+android:id="@+id/w1"
+android:layout_height="wrap_content"
+android:layout_width="wrap_content"
+android:textSize="18sp"
+android:textStyle="bold"
+android:textColor="#000000"
+android:text="@string/lawu1"
+android:layout_gravity="center_vertical|right"
+/>
+<TextView
+android:id="@+id/w2"
+android:layout_height="wrap_content"
+android:layout_width="wrap_content"
+android:textSize="18sp"
+android:textStyle="bold"
+android:textColor="#000000"
+android:text="@string/lawu2"
+android:layout_gravity="center_vertical|right"
+/>
+<TextView
+android:id="@+id/w3"
+android:layout_height="wrap_content"
+android:layout_width="wrap_content"
+android:textColor="#000000"
+android:textStyle="bold"
+android:textSize="18sp"
+android:text="@string/lawu3"
+android:layout_gravity="center_vertical|right"
+/>
+<TextView
+android:id="@+id/w4"
+android:layout_height="wrap_content"
+android:layout_width="wrap_content"
+android:textColor="#000000"
+android:textStyle="bold"
+android:textSize="18sp"
+android:text="@string/lawu4"
+android:layout_gravity="center_vertical|right"
+/>
+<TextView
+android:id="@+id/w5"
+android:layout_height="wrap_content"
+android:layout_width="wrap_content"
+android:textColor="#000000"
+android:textStyle="bold"
+android:textSize="18sp"
+android:text="@string/lawu5"
+android:layout_gravity="center_vertical|right"
+/>
+<TextView
+android:id="@+id/w6"
+android:layout_height="wrap_content"
+android:layout_width="wrap_content"
+android:textColor="#000000"
+android:textStyle="bold"
+android:textSize="18sp"
+android:text="@string/lawu6"
+android:layout_gravity="center_vertical|right"
+/>
+<TextView
+android:id="@+id/w7"
+android:layout_height="wrap_content"
+android:layout_width="wrap_content"
+android:textColor="#000000"
+android:textStyle="bold"
+android:textSize="18sp"
+android:text="@string/lawu7"
+android:layout_gravity="center_vertical|right"
+/>
+<TextView
+android:id="@+id/w8"
+android:layout_height="wrap_content"
+android:layout_width="wrap_content"
+android:textColor="#000000"
+android:textStyle="bold"
+android:textSize="18sp"
+android:text="@string/lawu8"
+android:layout_gravity="center_vertical|right"
+/>
+
+
+
+</LinearLayout>
+ </ScrollView> 
